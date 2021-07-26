@@ -14,7 +14,11 @@ MCTS implementation branched off ChemTS (https://github.com/tsudalab/ChemTS) to 
 ```python2 -m pip install -r requirements.txt```
 
 ## Run the MCTS, i is an integer
-python2 mcts_ligand.py i
+```cd cap_design_for_CB7_XTB```
+
+```python2 mcts_ligand.py i```
 
 ## Train the MCTS
-python2 train_RNN.py
+```cd train_RNN```
+
+```python2 train_RNN.py```
