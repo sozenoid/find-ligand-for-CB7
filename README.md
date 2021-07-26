@@ -1,5 +1,5 @@
 # find-ligand-for-CB7
-MCTS implementation branched off ChemTS to find ligands for CB7's portal
+MCTS implementation branched off ChemTS (https://github.com/tsudalab/ChemTS) to find ligands for CB7's portal
 
 ## Set up the environment 
 ### Create a conda environment and activate it
