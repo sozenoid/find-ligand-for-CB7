@@ -3,9 +3,9 @@ MCTS implementation branched off ChemTS (https://github.com/tsudalab/ChemTS) to 
 
 ## Set up the environment 
 ### Create a conda environment and activate it
-```conda create --name test-chemts python=2.7```
+```conda create --name ligand-for-CB7 python=2.7```
 
-```conda activate test-chemts```
+```conda activate ligand-for-CB7```
 ### Install the rdkit
 ```conda install -c rdkit rdkit```
 ### Install openbabel 
