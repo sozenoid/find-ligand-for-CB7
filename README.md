@@ -27,10 +27,12 @@ MCTS implementation branched off ChemTS (https://github.com/tsudalab/ChemTS) to 
 ```cd cap_design_for_CB7_XTB```
 
 ```python2 mcts_ligand.py i```
+
 The results will be displayed to STDOUT then stored and compressed in the 'outputs' folder. 
 
 ## Train the MCTS
 Edit the train_RNN.py file to set up the maximum smiles length (maxlen=31 by default). Then start training. See the ChemTS for training issues and how to train using GPUs. 
+
 ```cd train_RNN```
 
 ```python2 train_RNN.py```
